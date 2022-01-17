@@ -32,7 +32,7 @@ The data collected for this project are from authentic sources & can be download
 # Copyright, permissions and licensing
   All the data, code and visualizations producied by Thrinath Reddy Gurrala are licensed under **Creative Commons BY license** © 2022. This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, copy, distribute, and reproduce these in any medium, provided the source and authors are credited.
   
-  The data produced by third parties and made available by me are subject to the license terms from the original third-party authors. I will always indicate the original source of the data in our database, and you should always check the license of any such third-party data before use.
+  The data produced by third parties and made available by me are subject to the license terms from the original third-party authors. I will always indicate the original source of the data in my database, and you should always check the license of any such third-party data before use.
 
 # Author
   This data has been collected, cleansed, aggregated, and documented by Thrinath Reddy Gurrala.
