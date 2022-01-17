@@ -20,3 +20,12 @@ The data collected for this project are from authentic sources & can be download
     * [Daily cases and deaths by date reported to WHO](https://covid19.who.int/WHO-COVID-19-global-data.csv)
     * [Latest reported counts of cases and deaths](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
     * [Vaccination data](https://covid19.who.int/who-data/vaccination-data.csv)
+
+# Languages/Tools used:
+
+
+| Languages/Tools             | Version                                                   |
+|-----------------------------|-----------------------------------------------------------|
+| Oracle Database             | Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 |
+| Tableau Desktop             | 2019.3                                                    |
+| Tableau Public              | 2021.4                                                    |
