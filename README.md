@@ -23,9 +23,18 @@ The data collected for this project are from authentic sources & can be download
 
 # Languages/Tools used:
 
-
 | Languages/Tools             | Version                                                   |
 |-----------------------------|-----------------------------------------------------------|
 | Oracle                      | Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 |
 | Tableau Desktop             | 2019.3                                                    |
 | Tableau Public              | 2021.4                                                    |
+
+# Copyright, permissions and licensing
+  All the data, code and visualizations producied by Thrinath Gurrala are licensed under **Creative Commons BY license** © 2022. This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+  
+  The data produced by third parties and made available by me are subject to the license terms from the original third-party authors. I will always indicate the original source of the data in our database, and you should always check the license of any such third-party data before use.
+
+# Author
+  This data has been collected, cleansed, aggregated, and documented by Thrinath Reddy Gurrala.
+  
+  The mission of this project is to research on the **Disease:** coronavirus (COVID-19) **Virus:** severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) & find insights, patterns, observations worldwide * nationalwide
