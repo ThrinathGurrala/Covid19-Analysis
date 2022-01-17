@@ -37,4 +37,4 @@ The data collected for this project are from authentic sources & can be download
 # Author
   This data has been collected, cleansed, aggregated, and documented by Thrinath Reddy Gurrala.
   
-  The mission of this project is to research on the **Disease:** [coronavirus (COVID-19)](https://www.who.int/health-topics/coronavirus#tab=tab_1) **Virus:** [severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)](https://www.who.int/health-topics/severe-acute-respiratory-syndrome#tab=tab_1) & find insights, patterns, observations worldwide * nationalwide
+  The mission of this project is to research on the **Disease:** [coronavirus (COVID-19)](https://www.who.int/health-topics/coronavirus#tab=tab_1) **Virus:** [severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)](https://www.who.int/health-topics/severe-acute-respiratory-syndrome#tab=tab_1) & find insights, patterns, observations worldwide & nationalwide
